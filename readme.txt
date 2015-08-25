@@ -33,7 +33,7 @@ For example,
 `
 Check out this cool video:
 
-https://www.youtube.com/watch?v=A3PDXmYoF5U
+http://your.url/here
 
 That was a cool video.
 `
